@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">list jpg</string>
+    <string name="title_activity_photo_list">PhotoListActivity</string>
+</resources>
